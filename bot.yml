@@ -1,0 +1,3 @@
+name: Snapshot bot
+description: A node.js bot that mentions random slack users at a custom interval.
+avatar: avatar.png
